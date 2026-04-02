@@ -1,0 +1,5 @@
+npm install qrcode --save
+
+superadmin
+mohinimraut
+123456
