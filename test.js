@@ -6,6 +6,7 @@ const QRCode             = require("qrcode");
 const jwt                = require("jsonwebtoken");
 
 
+
 const { generate15MinSlots } = require("../utils/slotUtils");
 
 // ── Helper: parse slotTime "10:00 - 11:00" → { start, end } ─────────────────
